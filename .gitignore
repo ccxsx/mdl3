@@ -17,7 +17,7 @@ bin-release/
 **/mvnw.cmd
 **/.gitignore
 .idea
-
+**/target/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
