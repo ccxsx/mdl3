@@ -12,6 +12,12 @@ bin-release/
 *.air
 *.ipa
 *.apk
+**/mvnw
+**/.mvn
+**/mvnw.cmd
+**/.gitignore
+.idea
+
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
